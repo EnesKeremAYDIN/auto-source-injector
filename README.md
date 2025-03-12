@@ -18,7 +18,7 @@ Auto Source Injector is a simple JavaScript script that automatically appends a 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/auto-source-injector.git
+git clone https://github.com/EnesKeremAYDIN/auto-source-injector.git
 cd auto-source-injector
 ```
 
